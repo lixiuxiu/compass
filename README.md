@@ -6,7 +6,7 @@ Compass is a big data task diagnosis platform, which aims to improve the efficie
 the cost of abnormal tasks for users.
 
 The key features:
-
+:
 - Non-invasive, instant diagnosis, you can experience the diagnostic effect without modifying the existing scheduling
   platform.
 
